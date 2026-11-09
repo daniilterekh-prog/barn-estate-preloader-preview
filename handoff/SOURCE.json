@@ -1,0 +1,26 @@
+{
+  "id": "barn-estate-preloader",
+  "component_version": "1.0.0",
+  "handoff_version": "1.0.0",
+  "generated_on": "2026-11-09",
+  "includes_demo_screen": false,
+  "source": "https://github.com/daniilterekh-prog/barnes-sites/tree/codex/moscow-home-preloader/main-site/pages/home/exact-2026-10-21/source/preloader",
+  "reference": "https://github.com/daniilterekh-prog/barnes-sites/tree/main/landings/resort/zagore-altay.ru/tilda/blocks",
+  "logo": "https://github.com/daniilterekh-prog/barnes-assets/blob/main/brand/barn-estate/logo-white.svg",
+  "background": "home-hero-cleaned.png from the current approved Moscow homepage",
+  "files": {
+    "INTEGRATION.md": "8238d9c6534e8b9af59985eeaf78dbab2067c285870b0c075999513b749ec95d",
+    "README.md": "005567859354390f51df236524e64522ab95db2f684b006fb28fedb8baa9aca1",
+    "assets/home-hero-cleaned.png": "3bee2f050d87ea14b8110c098f9c416141b84c5778b9495db25c57b225c052f9",
+    "assets/logo-white.svg": "fcaa0f8adcb9dbe360caff39d007b2d032811580af670e63412e6915b0cb54b4",
+    "blocks/00-preloader/README.md": "4b168d45a2dc28eb1057c423465211069e4607a9c590b3260d5284d0ac6b8968",
+    "blocks/00-preloader/block.json": "9b7f8363debcd7710134c01a08b1d511a50e8d55aece4d081aef3f96feed64fd",
+    "blocks/00-preloader/index.html": "0622889ecb6826c2423d89d020b4c1a405303853cfefe65a1778d4aa75a16b11",
+    "css/00-preloader.css": "ffc1ed63e4f59b24b103bc34a64698d364bdede348222782e19fa69630f2a618",
+    "html/00-preloader.html": "98708555202db17c4a3c00ffcfbd17497e161cb148c16ca75c9bf186f13f3dea",
+    "html/page-shell.html": "b995037e82b7b7845fd022048cc7f71e7116765a37472a5e7610b3c82eaad165",
+    "index.html": "84a2447ac89b588a2100a8a47481b6102a15f2cd6a640faa6215f225e68ed465",
+    "js/00-preloader.js": "61a561e275a5c696d38f0e68850cb162856a87861ba8b7437d69453c36a42acc",
+    "paste.html": "ec506b5e4120cb249f66ca400db6059f9ccd38ca2799ce714ae37e653a313793"
+  }
+}

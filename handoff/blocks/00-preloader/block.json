@@ -1,0 +1,22 @@
+{
+  "id": "00-preloader",
+  "title": "Прелоадер главной BARN Estate",
+  "kind": "preloader",
+  "html": "../../html/00-preloader.html",
+  "css": "../../css/00-preloader.css",
+  "js": "../../js/00-preloader.js",
+  "preview": "index.html",
+  "version": "1.0.0",
+  "dependencies": [
+    "../../assets/home-hero-cleaned.png"
+  ],
+  "framework": null,
+  "includes_demo_screen": false,
+  "timings_ms": {
+    "minimum": 1900,
+    "maximum_before_exit": 3500,
+    "exit": 900,
+    "remove_after_exit": 950,
+    "css_recovery": 5000
+  }
+}
